@@ -1,6 +1,6 @@
-# A-Helpful-Header-for-Leetcoder-Using-Cpp
+# A-Helpful-Header-for-Leetcoders-Using-Cpp
 ####English
-##A Helpful Header for Leetcoder Using C++ Language.
+##A Helpful Header for Leetcoders Using C++ Language.
 I think the code editor on the Leetcode website isn't comfortable to use,
 so some Leetcoders may use their own IDEs or code editors.
 
