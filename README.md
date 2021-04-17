@@ -1,6 +1,6 @@
 # A-Helpful-Header-for-Leetcoders-Using-Cpp
-####English
-##A Helpful Header for Leetcoders Using C++ Language.
+##English
+####A Helpful Header for Leetcoders Using C++ Language.
 I think the code editor on the Leetcode website isn't comfortable to use,
 so some Leetcoders may use their own IDEs or code editors.
 
@@ -16,8 +16,8 @@ and you can also add your own ideas to this project.
 
 Good luck!
 
-####中文
-##给使用C++语言的力扣者的一个有用的库
+##中文
+####给使用C++语言的力扣者的一个有用的库
 我觉得力扣网站上的代码编辑器用起来不舒服，
 所以一些力扣者也许会使用他们自己的集成开发环境和编辑器。
 
