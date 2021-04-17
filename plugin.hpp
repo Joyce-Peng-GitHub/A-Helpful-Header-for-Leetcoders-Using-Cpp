@@ -11,7 +11,7 @@
 #include <ostream>
 #include <vector>
 
-namespace lc
+namespace lc // "lc" refers to "Leetcode"
 {
     class ListNode
     {
